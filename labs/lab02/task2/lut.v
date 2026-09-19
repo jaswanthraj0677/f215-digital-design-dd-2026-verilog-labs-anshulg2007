@@ -24,8 +24,7 @@ module lut #(
   end
 
   // Combinational read
-  always @(*) begin
-    dout = mem[sel];
-  end
+  assign dout = mem[sel];
+
 
 endmodule
