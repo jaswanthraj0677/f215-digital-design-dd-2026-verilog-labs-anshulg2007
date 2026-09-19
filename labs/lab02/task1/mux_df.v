@@ -3,7 +3,7 @@
 //
 // This file does not compile as-is. Find the bug and fix it before moving on.
 // Hint: think carefully about which port should be a net and which should be
-// a variable in dataflow modeling.
+// a variable in dataflow modelin
 
 module mux_df (
   input       I0,
