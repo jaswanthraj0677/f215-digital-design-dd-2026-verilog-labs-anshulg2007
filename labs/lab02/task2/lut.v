@@ -2,7 +2,7 @@
 // A small parameterized ROM (lookup table): DEPTH words, each WIDTH bits
 // wide. dout continuously reflects mem[sel].
 //
-// YOU complete the two TODOs below. Everything else is given.
+// YOU complete the two TODOs below. Everything else is giv
 
 module lut #(
   parameter WIDTH = 8,
